@@ -1,7 +1,11 @@
 # FACE-EYE-DETECTION-USING-OPENCV
 
 ## Introduction
-This project utilizes OpenCV, a popular computer vision library, to detect faces and eyes in images and videos. The goal is to provide a simple yet effective solution for detecting these key facial features in real-time.
+Face and Eye Detection using OpenCV is a project designed to leverage the capabilities of OpenCV, a leading computer vision library, to detect faces and eyes within images and videos. OpenCV provides a comprehensive set of tools and functions for performing various tasks in the field of computer vision, making it an ideal choice for this project.
+
+The primary objective of this project is to develop an efficient and accurate solution for detecting faces and eyes in real-time scenarios. By utilizing OpenCV's built-in algorithms and functionalities, we aim to create a robust system capable of identifying these key facial features with high precision and reliability.
+
+Face and eye detection have wide-ranging applications across different industries and domains. From security surveillance systems and biometric authentication to augmented reality and human-computer interaction, the ability to detect and track faces and eyes is crucial for numerous applications.
 
 ## Problem Statement
 The ability to accurately detect faces and eyes has numerous applications across various domains including security, surveillance, human-computer interaction, and entertainment. This project aims to address the need for robust and efficient face and eye detection algorithms that can be easily integrated into different applications.
